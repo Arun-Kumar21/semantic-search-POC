@@ -2,7 +2,6 @@ from services.semantic_search import SemanticEmbedding
 from services.faiss_index import FaissIdx
 
 import pandas as pd
-from io import StringIO
 
 if __name__=='__main__':
   model = SemanticEmbedding()
