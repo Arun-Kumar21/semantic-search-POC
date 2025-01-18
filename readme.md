@@ -31,7 +31,7 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
 ```
 
-> **Warning**: Running the dataset provided in the dataset file requires a good processor and may take a significant amount of time.
+> **Warning**: Running the dataset provided in the dataset directory requires a good processor and may take a significant amount of time.
 
 ## Key Libraries
 
